@@ -1,0 +1,38 @@
+[
+    {
+      "nombre": "Optimización de Cultivo de Maíz",
+      "descripcion": "Implementación de técnicas avanzadas para aumentar el rendimiento del cultivo de maíz en una granja local.",
+      "fecha": "2022",
+      "ubicacion": "California, EE. UU."
+    },
+    {
+      "nombre": "Control de Plagas en Viñedos",
+      "descripcion": "Desarrollo de un sistema de control de plagas en viñedos que redujo significativamente las pérdidas de uva.",
+      "fecha": "2021",
+      "ubicacion": "Bordeaux, Francia"
+    },
+    {
+      "nombre": "Modernización de Riego",
+      "descripcion": "Instalación de un sistema de riego automatizado que mejoró la eficiencia y la gestión del agua en campos de arroz.",
+      "fecha": "2020",
+      "ubicacion": "Mekong Delta, Vietnam"
+    },
+    {
+      "nombre": "Asesoramiento en Agricultura Orgánica",
+      "descripcion": "Asesoramiento y capacitación en prácticas de agricultura orgánica para una cooperativa de agricultores locales.",
+      "fecha": "2019",
+      "ubicacion": "Oaxaca, México"
+    },
+    {
+      "nombre": "Monitoreo de Plagas en Frutales",
+      "descripcion": "Desarrollo de un sistema de monitoreo de plagas en frutales que redujo la necesidad de pesticidas.",
+      "fecha": "2018",
+      "ubicacion": "Tasmania, Australia"
+    },
+    {
+      "nombre": "Tecnología Agrícola en Invernaderos",
+      "descripcion": "Introducción de tecnología avanzada en invernaderos para mejorar el cultivo de hortalizas durante todo el año.",
+      "fecha": "2017",
+      "ubicacion": "Almería, España"
+    }
+  ]

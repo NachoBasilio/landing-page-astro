@@ -1,1 +1,25 @@
-<h1>Proyects</h1>
+---
+import projects from '../../config/projects.json'
+console.log(projects)
+---
+
+
+<div class="flex flex-col bg-neutral-700 p-4 rounded-xl">
+    <h1 class="text-5xl font-bold text-right">Proyectos</h1>
+    <div class="grid md:grid-cols-3 gap-6">
+        {
+            projects.map(project => (
+                <div class=" bg-slate-900 p-5 rounded-xl flex-col">
+                    <h2 class="text-2xl">{project.nombre}</h2>
+                    <p class="mt-4">{project.descripcion}</p>
+
+                    <div id="info" class="flex flex-1 items-start mt-10">                    
+                        <p class="flex-1">{project.fecha}</p>
+                        <p class="flex-1 text-right">{project.ubicacion}</p>
+                    </div>
+                </div>
+            ))
+        }
+    </div>
+
+</div>
