@@ -6,5 +6,5 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   integrations: [tailwind()],
   site: 'https://NachoBasilio.github.io',
-  base: '/landing-page-astro',
+  base: '/landing-page-astro-fazt',
 });
