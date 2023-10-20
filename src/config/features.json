@@ -1,0 +1,28 @@
+
+[
+    {
+        "nombre": "Gestión de Campos",
+        "descripcion": "Optimización y administración de campos agrícolas para mejorar la productividad y rendimiento de cultivos."
+    },
+    {
+        "nombre": "Control de Plagas",
+        "descripcion": "Utilización de tecnología avanzada para monitorear y controlar plagas de insectos de manera eficiente y sostenible."
+    },
+    {
+        "nombre": "Tecnología Agrícola",
+        "descripcion": "Implementación de soluciones tecnológicas innovadoras para la agricultura, como sensores, drones y sistemas de riego automatizados."
+    },
+    {
+        "nombre": "Asesoramiento Agrícola",
+        "descripcion": "Brindar asesoramiento y consultoría especializada a los agricultores para tomar decisiones informadas en la gestión de cultivos."
+    },
+    {
+        "nombre": "Gestión de Recursos Naturales",
+        "descripcion": "Promoción de prácticas sostenibles y responsables para la gestión de recursos naturales en la agricultura."
+    },
+    {
+        "nombre": "Investigación y Desarrollo",
+        "descripcion": "Dedicación a la investigación y desarrollo de nuevas tecnologías y técnicas agrícolas para la mejora continua de la agricultura."
+    }
+]
+  
